@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "53489229350",
+    "project_id": "agroecologico-c2d28",
+    "storage_bucket": "agroecologico-c2d28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53489229350:android:ac11df2aa9f96379c990e7",
+        "android_client_info": {
+          "package_name": "com.cdmsoftware.agroecologico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53489229350-eng2vt7lo1r6njajnujqlj4kh6phbqc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cdmsoftware.agroecologico",
+            "certificate_hash": "152d0719d37bbe843964f3f734d12593b7807b82"
+          }
+        },
+        {
+          "client_id": "53489229350-8dnlus1nh118a3tbhk2qrmstt9vll3q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAWeeDwdMqsGnolrFTj6_4IOwnlOYpXxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53489229350-8dnlus1nh118a3tbhk2qrmstt9vll3q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53489229350:android:b070454b012c8711c990e7",
+        "android_client_info": {
+          "package_name": "com.cdmsoftware.agroecologico_am"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53489229350-8dnlus1nh118a3tbhk2qrmstt9vll3q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAWeeDwdMqsGnolrFTj6_4IOwnlOYpXxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53489229350-8dnlus1nh118a3tbhk2qrmstt9vll3q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

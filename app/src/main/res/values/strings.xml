@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AgroEcologico-AM</string>
+    <string name="app_name">AgroEcologico</string>
+    <string  name="welcome_message" >¡Bienvenido a AgroEcologico!</string>
 </resources>
